@@ -1,3 +1,3 @@
 I want to decide how to travel to DTU. 
-First, I check the weather. If it is raining, I choose to drive my car. If it is not raining, I choose to ride my bike. 
+First, I check the weather. If it is raining or snowing, I choose to drive my car. If it is not raining, I choose to ride my bike. 
 Finally, I output the chosen mode of transportation.
